@@ -1,2 +1,0 @@
-# ScriptingLabWork
-Bootstrap Lab
